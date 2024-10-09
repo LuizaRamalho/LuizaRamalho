@@ -1,25 +1,25 @@
-<div align="center">
-  <a href="www.linkedin.com/in/luiza-souza-ramalho" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/lu.szramalho/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="s.r.luiza.s.r@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="luiza.s.ramalho@hot-mail" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
-  </a>
-</div>
-
-###
-
 <h1 align="left">Hey there 👋<br>My name is Luiza Souza Ramalho, but you can call me Luz</h1>
 
 ###
 
 <h3 align="center">About Me<br>I live in the capital of 📍São Paulo and I am 17 years old.<br>I am currently in my final year of high school along with technical education with a focus on front-end. 👩🏻‍💻<br>PROANA 💙 Scrum Master</h3>
+
+###
+
+<div align="center">
+  <a href="www.linkedin.com/in/luiza-souza-ramalho" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/lu.szramalho/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="s.r.luiza.s.r@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="luiza.s.ramalho@hot-mail" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+  </a>
+</div>
 
 ###
 
@@ -60,5 +60,16 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=LuizaRamalho&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuizaRamalho&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuizaRamalho&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/LuizaRamalho/LuizaRamalho/output/snake.svg" alt="Snake animation" />
 
 ###
