@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">About Me<br>I live in the capital of 📍São Paulo and I am 18 years old.<br>I am currently in my final year of high school along with technical education with a focus on front-end. 👩🏻‍💻<br>PROANA 💙 Scrum Master</h3>
+<h3 align="center">About Me<br>I live in the capital of 📍São Paulo and I am 18 years old.<br>I am currently in my final year of high school along with technical education with a focus on front-end. 👩🏻‍💻<br>Ex-PROANA</h3>
 
 ###
 
