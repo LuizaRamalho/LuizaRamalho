@@ -38,8 +38,33 @@ Gosto de transformar problemas em soluções práticas, explorar novas tecnologi
 
 ## 🌱 Currently learning
 
-```text
-✦ Desenvolvimento Web
+✦ Desenvolvimento Web  
+✦ Banco de Dados  
+✦ JavaScript  
+✦ Lógica de Programação  
+✦ Boas práticas de desenvolvimento  
+
+---
+
+## ✧ Beyond code
+
+📊 Organização e processos  
+🧩 Resolução de problemas  
+🤝 Trabalho em equipe  
+🌎 Comunicação em inglês  
+🚀 Aprendizado contínuo  
+
+---
+
+<div align="center">
+
+୨୧ ─────────────── ୨୧
+
+**keep learning, keep building.** ✨
+
+୨୧ ─────────────── ୨୧
+
+</div>
 ✦ Banco de Dados
 ✦ JavaScript
 ✦ Lógica de Programação
